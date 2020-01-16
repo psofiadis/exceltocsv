@@ -1,0 +1,5 @@
+INFO  | 2019-10-15 15:11:22 | [main] worker.ToCSVTransformer (ToCSVTransformer.java:74) - Saving file Copy of John.csv
+INFO  | 2019-10-15 15:11:23 | [main] worker.ToCSVTransformer (ToCSVTransformer.java:217) - Checking destination copying dirs for file Copy of John.csv
+INFO  | 2019-10-15 15:11:23 | [main] worker.ToCSVTransformer (ToCSVTransformer.java:222) - Processing destination copying dir C:\PGM\excel_files\copyFolder\Copy of John.csv
+INFO  | 2019-10-15 15:11:23 | [main] worker.ToCSVTransformer (ToCSVTransformer.java:226) - Streams created for C:\PGM\excel_files\copyFolder\Copy of John.csv
+INFO  | 2019-10-15 15:11:23 | [main] worker.ToCSVTransformer (ToCSVTransformer.java:76) - Saved file Copy of John.csv

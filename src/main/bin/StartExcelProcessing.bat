@@ -1,0 +1,1 @@
+java -DabacRootPathDir=c:\PGM\excel_files -DabacRelativeTransformDir=transform -DabacFullPathCopyDirs=C:\PGM\excel_files\copyFolder -DrowStart=2 -DcsvSeparator=; -jar ../lib/exceltocsv.jar
